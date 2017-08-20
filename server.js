@@ -49,7 +49,7 @@ var htmlTemplate=1 `
                             <div>${content}</div>
                 </div>
             
-        </html>  `
+        </html>  `;
     return htmlTemplate;
     
 }
